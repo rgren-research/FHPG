@@ -127,11 +127,15 @@ This repository is released under the Apache 2.0 license as found in the [LICENS
 If you find this repository helpful, please cite:
 
 ```
-@article{ren2026fhpg,
-  title={FHPG: A Unified Framework for Transformer with Pruning and Quantization},
-  author={Ren, Ruiguo},
-  journal={Pattern Recognition Letters},
-  year={2026},
-  publisher={Elsevier}
+@article{REN2026174,
+title = {FHPG: A unified framework for transformer with pruning and quantization},
+journal = {Pattern Recognition Letters},
+volume = {201},
+pages = {174-179},
+year = {2026},
+issn = {0167-8655},
+doi = {https://doi.org/10.1016/j.patrec.2026.01.020},
+url = {https://www.sciencedirect.com/science/article/pii/S0167865526000280},
+author = {Ruiguo Ren}
 }
 ```
