@@ -1,7 +1,7 @@
 # FHPG: A unified framework for transformer with pruning and quantization [Pattern Recognition Letters, 2026 ]
 
 This repository contains PyTorch implementations for FHPG.
-For details see [FHPG: A Unified Framework for Transformer with Pruning and Quantization](https://www.sciencedirect.com/science/article/abs/pii/S0167865526000280)
+For details see [FHPG: A unified framework for transformer with pruning and quantization](https://www.sciencedirect.com/science/article/abs/pii/S0167865526000280)
 
 FHPG is a lightweight framework for vision models that leverages structured pruning and low-bit quantization to reduce model complexity, significantly accelerating inference while maintaining accuracy loss below 1%.
 
