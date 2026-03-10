@@ -1,4 +1,4 @@
-# FHPG: A Unified Framework for Transformer with Pruning and Quantization [Pattern Recognition Letters, 2026 ]
+# FHPG: A unified framework for transformer with pruning and quantization [Pattern Recognition Letters, 2026 ]
 
 This repository contains PyTorch implementations for FHPG.
 For details see [FHPG: A Unified Framework for Transformer with Pruning and Quantization](https://www.sciencedirect.com/science/article/abs/pii/S0167865526000280)
